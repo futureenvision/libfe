@@ -1,3 +1,3 @@
-module github.com/futureenvision/fe
+module github.com/futureenvision/libfe
 
 go 1.17
